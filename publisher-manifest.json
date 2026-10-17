@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "72c7999e3806641f72a35b97",
+  "owner": "xw8fcne9",
+  "repo": "page-fa2ddef51d079e06a1e7e646",
+  "title": "幻神",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fa2ddef51d079e06a1e7e646",
+      "a": "幻神",
+      "b": "",
+      "entity": "幻神",
+      "brand": "幻神",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3a12079d56f05c26c957d9a5d2f99e95060fef958d718341251d2eb9608938f3",
+      "content": {
+        "keyword1": "幻神",
+        "keyword2": "",
+        "primary_entity": "幻神",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "幻神。一页按专栏的节奏写成：首屏只剩名字，后面摊开价目、用法与按主题分开的疑问。酒红外壳，象牙纸心，不喊口号。",
+          "AI_DESCRIPTION": "幻神。一页按专栏的节奏写成：首屏只剩名字，后面摊开价目、用法与按主题分开的疑问。酒红外壳，象牙纸心，不喊口号。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\nhtml,body{margin:0;padding:0}\nbody{background:#F4EDE0;color:#3A141C;font-family:\"Songti SC\",\"STSong\",\"SimSun\",\"PMingLiU\",serif;line-height:1.75;padding-bottom:4.2rem}\na{color:inherit}\nmain{display:block}\n.hero{position:relative;min-height:100vh;background:#6E2432;color:#F4EDE0;overflow:hidden}\n.hero h1{margin:0;padding:6vh 0 0 1vw;font-size:48vw;line-height:.78;letter-spacing:-.08em;font-weight:700;font-family:\"Heiti SC\",\"SimHei\",\"PingFang SC\",sans-serif;white-space:nowrap}\n.hero .ghost{position:absolute;left:-8vw;bottom:-18vh;font-size:62vw;line-height:.7;opacity:.14;font-family:\"Heiti SC\",\"SimHei\",\"PingFang SC\",sans-serif;letter-spacing:-.1em;white-space:nowrap;pointer-events:none}\n.hero .lede{position:absolute;left:1.1rem;bottom:4.8rem;max-width:22rem;font-size:.92rem;line-height:1.7}\n.wrap{width:min(42rem,calc(100% - 2.2rem));margin:0 auto;padding:3.2rem 0}\n.wide{width:min(58rem,calc(100% - 2.2rem));margin:0 auto;padding:3.4rem 0 4rem}\nh2{font-size:1.55rem;line-height:1.35;letter-spacing:.08em;font-weight:700;margin:0 0 1.1rem}\nh3{font-size:1.05rem;letter-spacing:.18em;margin:2.2rem 0 .8rem;font-weight:700}\np{margin:0 0 1rem}\n.essay p:first-of-type{font-size:1.08rem}\n.bar{border-left:7px solid #6E2432;padding:.2rem 0 .2rem 1.15rem;margin:0 0 1.15rem}\n.ink{background:#6E2432;color:#F4EDE0}\n.ink h2,.ink h3{color:#F4EDE0}\n.ink .bar{border-left-color:#F4EDE0;color:#F4EDE0}\n.steps .bar + .bar{margin-top:1rem}\n.num{display:block;font-family:\"Heiti SC\",\"SimHei\",\"PingFang SC\",sans-serif;font-size:.72rem;letter-spacing:.22em;opacity:.7;margin-bottom:.25rem}\n.plans{padding-bottom:1rem}\n.plan{background:#F4EDE0;color:#3A141C;border-left:8px solid #3A141C;padding:1.25rem 1.3rem 1.35rem 1.45rem;margin:0 0 1.15rem;max-width:34rem}\n.plan h3{margin:.1rem 0 .35rem;letter-spacing:.14em;font-size:1.12rem}\n.plan .price{font-family:\"Heiti SC\",\"SimHei\",\"PingFang SC\",sans-serif;font-size:1.35rem;letter-spacing:.04em;margin:0 0 .2rem}\n.plan .year{font-size:.88rem;opacity:.8;margin:0 0 .75rem}\n.plan ul{margin:0;padding:0;list-style:none}\n.plan li{padding:.18rem 0;border-top:1px solid rgba(58,20,28,.18)}\n.p1{margin-left:0}\n.p2{margin-left:11%;max-width:36rem;border-left-width:10px;background:#EDE3D2}\n.p3{margin-left:22%;max-width:38rem}\n.aside{font-size:.8rem;letter-spacing:.12em;margin:0 0 .5rem}\n.faq-group{margin:0 0 2.2rem}\n.qa{border-left:7px solid #6E2432;padding:.15rem 0 .15rem 1.1rem;margin:0 0 1rem}\n.qa h4{margin:0 0 .35rem;font-size:1rem;letter-spacing:.06em}\n.qa p{margin:0;font-size:.95rem}\n.note{font-size:.88rem;opacity:.85}\n.foot{width:min(42rem,calc(100% - 2.2rem));margin:0 auto;padding:0 0 2.5rem;font-size:.82rem;letter-spacing:.04em}\nnav.dock{position:fixed;left:0;right:0;bottom:0;z-index:30;background:#3A141C;color:#F4EDE0;display:flex;justify-content:space-between;gap:.4rem;padding:.7rem 1rem calc(.7rem + env(safe-area-inset-bottom));font-family:\"Heiti SC\",\"SimHei\",\"PingFang SC\",sans-serif;font-size:.72rem;letter-spacing:.18em}\nnav.dock a{color:#F4EDE0;text-decoration:none;white-space:nowrap}\n@media (max-width:720px){\n.hero h1{font-size:42vw;padding-top:8vh}\n.hero .lede{max-width:none;right:1.1rem;font-size:.86rem}\n.p1,.p2,.p3{margin-left:0;max-width:none}\nh2{font-size:1.32rem}\nnav.dock{letter-spacing:.08em;font-size:.64rem;padding-left:.7rem;padding-right:.7rem}\n}\n</style><main>\n<header class=\"hero\" id=\"kaipian\">\n<h1>幻神</h1>\n<div class=\"ghost\">幻神</div>\n<p class=\"lede\">两个字被放得太大，像木刻海报上的题签，几乎要溢出纸边。下面的文章写得慢。事实栏是空的，这一页就拒绝在空白里长出总部、牌照和欢呼。</p>\n</header>\n<section class=\"wrap essay\" id=\"dufa\">\n<h2>把这两个字读完</h2>\n<p>我起初只是把「幻神」抄在一张酒红的底上，想看看它独自站着时还像不像一句口号。结果它更像旧杂志中缝的栏头：偏硬、偏暗，不招呼人靠近，却把整页的光线都吞进去。你如果是被某个痛快的许诺追到这里的，大概会嫌我绕。绕有绕的理由。没有可核对的来历，就不该冒充来历；没有可引用的评测，就不该把喝彩写进第一句。</p>\n<p>于是这一页只做三件小事。把价目上的数字抄清楚；把用法写成阅读次序，而不是操作神话；把疑问按主题分开，免得你在 denseness 里打转。客户端那一节几乎是留白——不是疏忽，是没有可核验的下载地址，我不愿在象牙纸上印一条假装能点开的路。</p>\n<p>酒红外壳，象牙纸心。颜色只负责气氛，不负责担保。读的时候把速度放慢一点，像读一栏不着急结尾的专栏。若读完仍觉得不够像一份「产品说明书」，那正是我要的距离。</p>\n</section>\n<section class=\"ink\" id=\"yongfa\">\n<div class=\"wrap steps\">\n<h2>用法：在没有多余承诺之前</h2>\n<p>所谓用法，在这里不是一套按钮教程。它更像一篇导读：告诉你这张静态纸能被怎样翻完，以及哪些事情它故意不做。</p>\n<article class=\"bar\">\n<span class=\"num\">一</span>\n<p>先把首屏的两个字看完。它们大到不像商标，更像门楣。确认你没有把别的名字误认成这个栏头，再往下走。</p>\n</article>\n<article class=\"bar\">\n<span class=\"num\">二</span>\n<p>价目按台阶排布：最矮的一档贴着左边，中间一档略微探出，最高的一档再往右移。差额写在色条右侧，不靠口号撑场面。选档时只看人数、用量和自己愿意按月还是按年结。</p>\n</article>\n<article class=\"bar\">\n<span class=\"num\">三</span>\n<p>客户端一节若让你失望，那是因为本页拒绝伪造安装包。把你手头已有的工具留在手头。交易、登录、安装都不在这张不能提交的页面上完成。</p>\n</article>\n<article class=\"bar\">\n<span class=\"num\">四</span>\n<p>疑问按主题分组，不必从头搜到尾。名字、价目、工具各占一簇。没有写到的规则，等于没有可引用的规则，请不要自行脑补成优待。</p>\n</article>\n<article class=\"bar\">\n<span class=\"num\">五</span>\n<p>底部那一行字会跟着你。随时回到开篇、用法、价目、客户端或问答。它不负责催促，只负责让你不迷路。</p>\n</article>\n</div>\n</section>\n<section class=\"ink plans\" id=\"jiamu\">\n<div class=\"wide\">\n<h2>三档价目，像台阶那样往上</h2>\n<p>我把三张卡片错开，不是为了做出热闹的货架，是为了让眼睛像上阶梯：先看自己够不够用，再决定要不要多站一级。下列数字来自价目草稿，权益只写可被 squint 看清的额度与台数，不追加无法核对的性能故事。</p>\n<article class=\"plan p1\">\n<h3>基础版</h3>\n<p class=\"price\">¥15／月</p>\n<p class=\"year\">按年付为 ¥150／年，相当于少记两个月。</p>\n<ul>\n<li>每月计入 100GB 用量</li>\n<li>同时使用 3 台设备</li>\n<li>给独自读写、把节奏放慢的人</li>\n<li>不额外描写线路与场次</li>\n</ul>\n</article>\n<article class=\"plan p2\">\n<p class=\"aside\">写在台阶正中的那一档</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35／月</p>\n<p class=\"year\">按年付为 ¥350／年，算法与上一档相同。</p>\n<ul>\n<li>每月计入 300GB 用量</li>\n<li>同时使用 5 台设备</li>\n<li>给希望把工作与闲读放进同一笔额度的人</li>\n<li>本页不把中间档写成神话</li>\n</ul>\n</article>\n<article class=\"plan p3\">\n<h3>团队版</h3>\n<p class=\"price\">¥85／月</p>\n<p class=\"year\">按年付为 ¥850／年，仍是十个月的价钱买十二个月。</p>\n<ul>\n<li>每月计入 1000GB 用量</li>\n<li>同时使用 20 台设备</li>\n<li>给需要把额度摊给多人的一桌</li>\n<li>定制与专人陪同不在可核对的材料里，故不写</li>\n</ul>\n</article>\n</div>\n</section>\n<section class=\"wrap\" id=\"kehu\">\n<h2>客户端：此处留白</h2>\n<p>这一节本该堆着按钮，像杂货铺的柜台。可我没有一份能核对来源的官方安装包，也没有一条经得起追问的下载地址。伪造链接比不写更糟，于是柜台空着。</p>\n<article class=\"bar\">\n<p>若你已经有自己惯用的工具，配置请留在本地，不要指望这一页代劳。若你还没有，也请把寻找的过程放在页面之外——静态文稿不托管文件，不扮演商店，不假装点击之后会跳出安装向导。</p>\n</article>\n<p class=\"note\">地址栏因此只指向页内的锚点。空字符串比一条漂亮的死链更接近事实。</p>\n</section>\n<section class=\"wrap\" id=\"wenda\">\n<h2>常见问题，按主题分开写</h2>\n<div class=\"faq-group\">\n<h3>关于名称</h3>\n<article class=\"qa\">\n<h4>幻神是不是一种必须立刻解释清楚的物件？</h4>\n<p>在这一页上，它首先是栏头。我不肯用空的事实栏去填一部公司沿革，也不肯把名字解释成保证。你可以把两个字只当成题签：读完再决定要不要看价目。</p>\n</article>\n<article class=\"qa\">\n<h4>为什么通篇写得像专栏，而不像柜台？</h4>\n<p>因为柜台需要存货清单、营业执照和可以当场验证的承诺。这些都不在可引用的材料里。专栏至少允许我把「不知道」写成「不知道」，而不必把它镀成信心。</p>\n</article>\n</div>\n<div class=\"faq-group\">\n<h3>关于价目</h3>\n<article class=\"qa\">\n<h4>三档之间真正差在哪里？</h4>\n<p>差在额度与同时使用的设备数。基础版每月 100GB、三台；旗舰版 300GB、五台；团队版 1000GB、二十台。年付是月价乘十。除此之外，本页不追加节点故事、速度故事或解锁故事。</p>\n</article>\n<article class=\"qa\">\n<h4>为什么看不见退款、日志、评测？</h4>\n<p>因为没有可引用的退款规则、日志说明或评价文本。与其写一句好听的，不如让这些格子空着。空着不是优惠，是边界。</p>\n</article>\n</div>\n<div class=\"faq-group\">\n<h3>关于工具与本页</h3>\n<article class=\"qa\">\n<h4>官方客户端在哪里？</h4>\n<p>没有可核验的地址，所以不放。若有人在别的地方声称「这就是幻神的安装包」，那是别人的句子，不是这一页能背书的句子。</p>\n</article>\n<article class=\"qa\">\n<h4>没有下载，这一页还有什么用？</h4>\n<p>用来把名字读完，把三档数字对照自己的用量，把疑问按主题看完。它是一篇说明性的短文，不是柜台，也不是工单窗口。底部那一行可以随时把你送回某一节。</p>\n</article>\n</div>\n</section>\n<p class=\"foot\">本页只是静态文稿，不处理付款，不收集表格，也不代替任何未能出示的身份。</p>\n</main>\n<nav class=\"dock\">\n<a href=\"#kaipian\">开篇</a>\n<a href=\"#dufa\">读法</a>\n<a href=\"#yongfa\">用法</a>\n<a href=\"#jiamu\">价目</a>\n<a href=\"#kehu\">客户端</a>\n<a href=\"#wenda\">问答</a>\n</nav>",
+          "hash": "df7654bf2e345b37b638979fdc0e85521f6cbaae3aea1345ce376491c8dd7f42",
+          "seo": {
+            "title": "幻神｜把两个字写满一页",
+            "keywords": "幻神,专栏,价目,基础版,旗舰版,团队版,用法,常见问题",
+            "description": "幻神。一页按专栏的节奏写成：首屏只剩名字，后面摊开价目、用法与按主题分开的疑问。酒红外壳，象牙纸心，不喊口号。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "8577",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "njshujiexin.cn",
+    "host": "p-e8904b4592.njshujiexin.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a19466ece9ab1ef58fa2f0ee590369e8a9fc2aca4d0ef3407de5275c67abb94b",
+    "sitemap.xml": "2c35deb8b05bf0239544148da8ad16bbfed21562d81e1f216d75f921da76f601",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "913177c90f85bdeac761f952284d317c329430266d65a049ec13b1b9dc4bda86",
+    "robots.txt": "f02bdbd7be075430dba3b6c0f5a24cdf3ac85e0ecbb2f60d6423b14a2e7f6e87",
+    "97627b9ee613b53265f1b0ade00e8683.txt": "a5a4925cd6661adcce4c85b277b87931f668555ce27d585700d055bacf0334ea"
+  },
+  "revision": "0aa0639611936284f6ef07d20d8fa36fc737aee1bf08e8ce87f9d06a59d7f7d4"
+}
